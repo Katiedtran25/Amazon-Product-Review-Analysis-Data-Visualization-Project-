@@ -1,7 +1,8 @@
 # Amazon-Product-Review-Analysis-Data-Visualization-Project-
 Amazon Product Review Analysis & Data Visualization Project
 
-Discussion Data Amazon reviews data was collected from 2013 to 2017.
+Data Amazon reviews data was collected from 2013 to 2017.
+
 Python, Natural Language Processing (NLP), Web Scraping
 
 Reviews are still important for marketing products on Amazon.com, its reviews specifically rate whether the product met the customer’s expectations.
